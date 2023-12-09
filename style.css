@@ -249,7 +249,7 @@ text-decoration: none !important;
     /* Add any additional styling you want */
 }
 .main{
-    background-image: url(../assets/inspire\ black\ desktop\ wallpaper.png);
+    background-image: url(assets/inspire\ black\ desktop\ wallpaper.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
