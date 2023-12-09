@@ -7,7 +7,7 @@ $(document).ready(function () {
         "Explore the world of digital marketing and boost your online presence. Join our team to create successful marketing strategies and reach a global audience.",
         "Embark on a journey in software development. Build innovative solutions, learn cutting-edge technologies, and shape the future of technology with us."
     ];
-    const images = ["../project Maximize/assets/Mobile development.gif", "../project Maximize/assets/Creative team.gif", "../project Maximize/assets/Developer activity.gif"];
+    const images = ["assets/Mobile development.gif", "assets/Creative team.gif", "assets/Developer activity.gif"];
 
 
     let currentIndex = 0;
